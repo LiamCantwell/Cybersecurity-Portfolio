@@ -1,1 +1,0 @@
-I am an enthusiastic and detail-oriented individual with a strong technical background. I enjoy working with technology and have excellent communication skills. I am passionate about implementing security frameworks and controls to protect assets and data, as well as identifying vulnerabilities and participating in security risk assessments.
