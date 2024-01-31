@@ -9,3 +9,5 @@ This is my professional portfolio, showcasing a range of cybersecurity skills an
 - [applying filters to SQL queries](https://github.com/LiamCantwell/Portfolio/tree/main/Using%20SQL)
 - [performing a vulnerability assessment for a small business](https://github.com/LiamCantwell/Portfolio/tree/main/Vulnerability%20Assessment)
 - using [Wireshark](https://github.com/LiamCantwell/Portfolio/tree/main/Wireshark%20Log%20Analysis) and [tcpdump](https://github.com/LiamCantwell/Portfolio/tree/main/tcpdump%20Log%20Analysis) to analyse network traffic
+
+Please reach out to me at [liamc12341@hotmail.com](mailto:liamc12341@hotmail.com) with any professional queries.
